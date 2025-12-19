@@ -19,10 +19,9 @@ I acted as the **Lead Frontend Contributor**, responsible for the application's 
 
 | Authentication | Main Interface | Secure Settings |
 |:---:|:---:|:---:|
-| ![Login Screen](screenshots/login.png) | ![Main Screen](screenshots/home.png) | ![Settings Screen](screenshots/settings.png) |
-| Conversation | Friend's Profile | New Conversation |
-|:---:|:---:|:---:|
-| ![Conversation Screen](screenshots/conversation.png) | ![Friend's Profile](screenshots/friendsprofile.png) | ![New Conversation Screen](screenshots/newconversation.png) |
+| ![Main Screen](screenshots/home.png) | ![Conversation Screen](screenshots/conversation.png) | ![Friend's Profile Screen](screenshots/friendsprofile.png) |
+| **Conversation** | **Friend's Profile** | **New Conversation** |
+| ![Conversation Gallery Screen](screenshots/gallery.png) | ![New Conversation Screen](screenshots/newconversation.png) | ![Your Profile Screen](screenshots/settings.png) |
 
 
 ---

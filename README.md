@@ -17,10 +17,10 @@ I acted as the **Lead Frontend Contributor**, responsible for the application's 
 ## Visual Showcase
 *Below are screenshots showcasing some of the UI modules implemented in the project:*
 
-| Authentication | Main Interface | Secure Settings |
+| Home screen | Conversation Interface | Friend's Profile |
 |:---:|:---:|:---:|
 | ![Main Screen](screenshots/home.png) | ![Conversation Screen](screenshots/conversation.png) | ![Friend's Profile Screen](screenshots/friendsprofile.png) |
-| **Conversation** | **Friend's Profile** | **New Conversation** |
+| **Conversation Gallery** | **New Conversation** | **Your Profile** |
 | ![Conversation Gallery Screen](screenshots/gallery.png) | ![New Conversation Screen](screenshots/newconversation.png) | ![Your Profile Screen](screenshots/settings.png) |
 
 

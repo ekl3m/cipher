@@ -22,7 +22,7 @@ I acted as the **Lead Frontend Contributor**, responsible for the application's 
 | ![Login Screen](screenshots/login.png) | ![Main Screen](screenshots/home.png) | ![Settings Screen](screenshots/settings.png) |
 | Conversation | Friend's Profile | New Conversation |
 |:---:|:---:|:---:|
-| ![Login Screen](screenshots/conversation.png) | ![Main Screen](screenshots/friendsprofile.png) | ![Settings Screen](screenshots/newconversation.png) |
+| ![Conversation Screen](screenshots/conversation.png) | ![Friend's Profile](screenshots/friendsprofile.png) | ![New Conversation Screen](screenshots/newconversation.png) |
 
 
 ---

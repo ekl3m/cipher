@@ -1,50 +1,64 @@
-# Welcome to your Expo app 👋
+# Cipher
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> **Portfolio Mirror:** This repository serves as a showcase of my frontend engineering work on the **Cipher** project.
 
-## Get started
+## My Role & Contributions
+I acted as the **Lead Frontend Contributor**, responsible for the application's visual identity, user experience (UX), and interactive elements.
 
-1. Install dependencies
+**Key highlights of my work:**
+* **Advanced Animations:** Implemented smooth, 60fps UI transitions using **Reanimated**.
+* **Sensory UX:** Integrated **Haptic Feedback** (`expo-haptics`) to enhance user interaction and tactile feel.
+* **Modern Navigation:** Built the app structure using **Expo Router** for seamless screen transitions.
+* **Vector Graphics:** Used **SVG** for crisp, scalable UI assets independent of screen density.
+* **Clean UI Architecture:** Styled components using native `StyleSheet` for maximum performance and explicit control over layout.
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## Visual Showcase
+*Below are screenshots showcasing some of the UI modules implemented in the project:*
 
-   ```bash
-   npx expo start
-   ```
+| Authentication | Main Interface | Secure Settings |
+|:---:|:---:|:---:|
+| ![Login Screen](screenshots/login.png) | ![Main Screen](screenshots/home.png) | ![Settings Screen](screenshots/settings.png) |
+| Conversation | Friend's Profile | New Conversation |
+|:---:|:---:|:---:|
+| ![Login Screen](screenshots/conversation.png) | ![Main Screen](screenshots/friendsprofile.png) | ![Settings Screen](screenshots/newconversation.png) |
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Tech Stack
+**Core:**
+* React Native (0.81+)
+* Expo (SDK 54)
+* React 19
+* JavaScript / TypeScript
 
-## Get a fresh project
+**Frontend & UX:**
+* **Navigation:** Expo Router / React Navigation
+* **Animations:** React Native Reanimated
+* **Styling:** Native StyleSheet
+* **Assets:** React Native SVG, Expo Image
+* **Interaction:** Expo Haptics, Gesture Handler
 
-When you're ready, run:
+**Security & Backend (Context):**
+* Firebase
+* Crypto-JS & RSA Native (Encryption implementation)
+* Expo Secure Store
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## How to Run (Original Instructions)
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+1.  Clone the repository:
+    ```bash
+    git clone [https://github.com/ekl3m/cipher.git](https://github.com/ekl3m/cipher.git)
+    ```
+2.  Install dependencies:
+    ```bash
+    npm install
+    ```
+3.  Start the app with Expo:
+    ```bash
+    npx expo start
+    ```
